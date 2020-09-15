@@ -1,7 +1,7 @@
 function helloworld(message:string){
     console.log("Hello World");
 
-    var updatedmessage;
+    let updatedmessage;
     
     return 0;
 }
