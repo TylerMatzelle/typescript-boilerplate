@@ -1,3 +1,7 @@
-# Summary
+# My Typescript Package
 ___
-Will say "Hello World" when executed in the terminal.
+### Installation Instructions
+To use this package, please run:
+```
+npm install
+```
